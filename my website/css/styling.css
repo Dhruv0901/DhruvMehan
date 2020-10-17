@@ -1,0 +1,149 @@
+html{
+	overflow-x: hidden;
+}
+body{
+	margin: 0px;
+	font-family: 'Piazzolla', serif;
+}
+h1{
+	margin: 0px;
+	font-style: Lucida Handwriting;
+	font-size: 36;
+	color: #66BFBF
+}
+/*class*/
+.heading1{
+	position: relative;
+	bottom: 210px;
+	left: 550px;
+	font-size: 5em
+}
+.para{
+	position: relative;
+	bottom: 240px;
+	left: 550px;
+	font-size: 2.5rem;
+	color: #66BFBF;
+	font-weight:normal;
+}
+.one{
+	position: relative;
+    bottom: 100px;
+	left: 150px;
+}
+.two{
+	position: relative;
+	bottom: 200px;
+	left: 800px;
+}
+.mountain{
+	position: relative;
+	top: 343px;
+	left: 40px;
+}
+.top-container{
+	background-color: #A3F7BF;
+	height: 700px;
+	margin: 0px;
+	line-height: 2;
+}
+.profile{
+	position:relative;
+	left: 600px;
+	display: block;
+	border-radius: 100%;
+}
+.p1{
+	display: inline;
+	position: relative;
+	text-align: left;
+	line-height: 2;
+}
+.hr1{
+	border-top-style: dotted;
+	border-left-style: none;
+	border-bottom-style: none;
+	border-right-style: none;
+	width: 5%;
+	border-width: 10px;
+	border-color: grey;
+}
+.heading1{
+	font-family: 'Dancing Script', cursive;
+	margin: 0px;
+}
+.para1{
+	font-family: 'Piazzolla', serif;
+	text-align: left;
+}
+.top-profile{
+	position: relative;
+	bottom: 200px;
+	right: 700px;
+	border-radius: 100%;
+	background-color: white;
+	margin: 0px;
+}
+.middle-container{
+	background-color: white;
+	height: 500px;
+	text-align: center;
+}
+.heading2{
+	display: block;
+	color: #11999E;
+	font-size: 100px;
+
+}
+.hr2{
+	width: 5%;
+	border-width: 10px;
+	border-top-style: dotted;
+	border-left-style: none;
+	border-bottom-style: none;
+	border-right-style: none;
+	border-color: grey;
+	left: 30px;
+}
+.about{
+	position: relative;
+	bottom: 1px;
+	right: : 640px;
+	color: #11999E
+}
+.semi-middle{
+	background-color: white;
+	height: 500px;
+	
+}
+.coding{
+	width: 25%;
+	height: 25%
+}
+.About-Me{
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: relative;
+}
+
+.About-Me:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
